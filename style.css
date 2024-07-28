@@ -1,0 +1,35 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.note-item {
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #fff;
+}
+
+.note-item h5 {
+  margin-bottom: 0.5rem;
+}
+
+.note-item p {
+  margin-bottom: 0.5rem;
+  color: #6c757d;
+}
+
+.note-item .timestamp {
+  font-size: 0.875rem;
+  color: #6c757d;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.pagination button {
+  margin: 0 0.25rem;
+}
